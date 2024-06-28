@@ -1,0 +1,25 @@
+Food Apis
+
+POST: http://localhost:5000/food/post/food
+GET: http://localhost:5000/food/get/foods
+
+
+Makeups
+
+POST: http://localhost:5000/makeup/post/makeupdata
+GET: http://localhost:5000/makeup/post/get/makeups
+
+Venue Provider
+
+GET: http://localhost:5000/venueProvider/get/makeups
+POST: http://localhost:5000/venueProvider/postdata
+
+Organizer
+
+GET: http://localhost:5000/organizer/get/all
+POST: http://localhost:5000/organizer/post/data
+
+Entertainment
+
+GET: http://localhost:5000/entertainment/get/in
+POST: http://localhost:5000/entertainment/post/all/in
